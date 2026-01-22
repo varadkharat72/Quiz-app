@@ -34,7 +34,7 @@ A basic quiz application created using **JavaScript and DOM manipulation**. User
 ---
 
 ## 🔗 Live Demo
-*(Add GitHub Pages / Netlify link here)*
+(https://varadkharat72.github.io/Quiz-app/)
 
 ---
 
