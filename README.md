@@ -29,12 +29,13 @@ A basic quiz application created using **JavaScript and DOM manipulation**. User
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here)*
+- screenshots/question.png
+- screenshots/result.png
 
 ---
 
 ## 🔗 Live Demo
-(https://varadkharat72.github.io/Quiz-app/)
+https://varadkharat72.github.io/Quiz-app/
 
 ---
 
