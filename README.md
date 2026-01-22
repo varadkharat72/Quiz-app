@@ -29,8 +29,12 @@ A basic quiz application created using **JavaScript and DOM manipulation**. User
 ---
 
 ## 📸 Screenshots
-- screenshots/question.png
-- screenshots/result.png
+
+### Home Screen
+![Questions](screenshots/question.png)
+
+### Weather Result
+![Result](screenshots/result.png)
 
 ---
 
