@@ -30,10 +30,10 @@ A basic quiz application created using **JavaScript and DOM manipulation**. User
 
 ## 📸 Screenshots
 
-### Home Screen
+### Question Screen
 ![Questions](screenshots/question.png)
 
-### Weather Result
+### Quiz Result
 ![Result](screenshots/result.png)
 
 ---
