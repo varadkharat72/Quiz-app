@@ -39,7 +39,7 @@ A basic quiz application created using **JavaScript and DOM manipulation**. User
 ---
 
 ## 🔗 Live Demo
-https://varadkharat72.github.io/Quiz-app/
+*([Quiz App](https://varadkharat72.github.io/Quiz-app/))*
 
 ---
 
